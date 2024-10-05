@@ -35,11 +35,11 @@ A Comparison of Structural & Predictive Models in Asset Price Prediction
     <a href="https://github.com/ClassicCollins/structural-vs-predictive-models"><strong>Explore the Docs »</strong></a>
     <br />
     <br />
-    <a href="https://https://colab.research.google.com/drive/1AlBVLA27MrrggDx3KeHyv2gzrezv--cd?usp=sharing/">Ckeck Out The Model</a>
+    <a href="https://https://colab.research.google.com/drive/1AlBVLA27MrrggDx3KeHyv2gzrezv--cd?usp=sharing">Check Out The Model</a>
     ·
-    <a href="https://github.com/ClassicCollins/heart-disease-prediction/blob/classic/.github/ISSUE_TEMPLATE/bug-report---.md">Report Bug</a>
+    <a href="https://github.com/ClassicCollins/structural-vs-predictive-models/blob/classic/.github/ISSUE_TEMPLATE/bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/ClassicCollins/heart-disease-prediction/blob/classic/.github/ISSUE_TEMPLATE/feature-request-form---.md">Request Feature</a>
+    <a href="https://github.com/ClassicCollins/structural-vs-predictive-models/blob/classic/.github/ISSUE_TEMPLATE/feature-request-form---.md">Request Feature</a>
   </p>
 </div>
 
