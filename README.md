@@ -177,10 +177,10 @@ Don't forget to give the project a star! Thanks again!
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [twitter-shield]: https://img.shields.io/badge/-Twitter-black.svg?style=for-the-badge&logo=x&colorB=555
 [twitter-url]: https://x.com/ClassicCollins2
-[issues-shield]: https://img.shields.io/github/issues/ClassicCollins/heart-disease-prediction.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/ClassicCollins/structural-vs-predictive-models.svg?style=for-the-badge
 [issues-url]: https://github.com/ClassicCollins/heart-disease-prediction/issues
-[license-shield]: https://img.shields.io/github/license/ClassicCollins/diabetes-prediction-app.svg?style=for-the-badge
-[license-url]: https://github.com/ClassicCollins/diabetes-prediction-app/blob/master/LICENSE
+[license-shield]: https://img.shields.io/github/license/ClassicCollins/structural-vs-predictive-models.svg?style=for-the-badge
+[license-url]: https://github.com/ClassicCollins/structural-vs-predictive-models/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-white.svg?style=for-the-badge&logo=linkedin&colorB=blue
 [linkedin-url]: https://linkedin.com/in/collins-ugwuozor
 [product-screenshot]: image/screenshot.png
