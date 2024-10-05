@@ -75,7 +75,7 @@ A Comparison of Structural & Predictive Models in Asset Price Prediction
 <!-- ABOUT THE PROJECT -->
 ## Overview
 
-[![Product Name Screen Shot][product-screenshot]](https://collins-diabetes-prediction.streamlit.app)
+[![Product Name Screen Shot][product-screenshot]](https://colab.research.google.com/drive/1AlBVLA27MrrggDx3KeHyv2gzrezv--cd?usp=sharing)
 
 * `Welcome` to structural vs predictive models repository! This project aims to compare two distinct approaches to stock price prediction: the structural model, represented by the Capital Asset Pricing Model (CAPM), and the predictive model, represented by the Gradient Boosting Regressor (GBR).
   
