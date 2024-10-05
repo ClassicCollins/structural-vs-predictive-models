@@ -156,7 +156,7 @@ This project highlights the trade-offs between the structural model (CAPM) and t
 
 Collins Emezie Ugwuozor - [@twitter_handle](https://x.com/ClassicCollins2) - ugwuozorcollinsemezie@gmail.com
 
-Project Link: [Diabetes-Prediction-App](https://www.datascienceportfol.io/collinsugwuozor/projects/5)
+Project Link: [structural-vs-predictive-models_project](https://www.datascienceportfol.io/collinsugwuozor/projects/7)
 
 Don't forget to give the project a star! Thanks again!
 
