@@ -1,5 +1,5 @@
 # structural-vs-predictive-models
-A Comparison of Structural & Predictive Models in Asset Price Prediction: CAPM vs Gradient Boosting Regressor 
+A Comparison of Structural & Predictive Models in Asset Price Prediction 
 <!-- Improved compatibility of back to top link: See: https://github.com/ClassicCollins/diabetes-prediction-app/back2top -->
 <a id="readme-top"></a>
 <!--
@@ -27,7 +27,7 @@ A Comparison of Structural & Predictive Models in Asset Price Prediction: CAPM v
   
   </a>
 
-<h3 align="center">Structural Vs. Predictive Models</h3>
+<h3 align="center"> CAPM vs Gradient Boosting Regressor</h3>
 
   <p align="center">
     A Project Designed to Compare the Structural & Predictive Models in Asset Price Prediction!
