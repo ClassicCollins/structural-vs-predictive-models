@@ -105,13 +105,18 @@ A Comparison of Structural & Predictive Models in Asset Price Prediction
 <!-- IMPLIMENTATION -->
 ## Implimentation
 `CAPM Implementation:`
-* Calculate the expected return using historical market data.
-* Estimate the beta for each stock.
-* Apply the CAPM formula to predict stock prices.
+* Step 1: Download Data for Assets and Market Index
+* Step 2: Calculate Returns
+* Step 3: Calculate Beta for Each Asset
+* Step 4: Calculate Expected Returns for Each Asset (CAPM)
+* Step 5: Calculate Portfolio Expected Return using Monte Carlo Simulation
 
 `GBR Implementation:`
-* Split the data into training and testing sets.
-* Train the GBR model on the training set.
+* Step 1: Download Data for Assets and Market Index
+* Step 2: Calculate Returns
+* Step 3: Prepare Data for Gradient Boosting Regressor(Split the data into training and testing sets)
+* Step 4: Train Gradient Boosting Regressor model on the training set.
+* Step 5: Calculate Portfolio Expected Return using Monte Carlo Simulation
 * Evaluate the model’s performance on the testing set.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
